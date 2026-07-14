@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Mudiiit/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Mudiiit/leetcode/tree/master/0231-power-of-two) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mudiiit/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
