@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Mudiiit/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mudiiit/leetcode/tree/master/0326-power-of-three) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mudiiit/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mudiiit/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mudiiit/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mudiiit/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
