@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mudiiit/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Mudiiit/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1840-maximum-building-height](https://github.com/Mudiiit/leetcode/tree/master/1840-maximum-building-height) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mudiiit/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mudiiit/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Mudiiit/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1840-maximum-building-height](https://github.com/Mudiiit/leetcode/tree/master/1840-maximum-building-height) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mudiiit/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Mudiiit/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mudiiit/leetcode/tree/master/0326-power-of-three) |
+| [1840-maximum-building-height](https://github.com/Mudiiit/leetcode/tree/master/1840-maximum-building-height) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mudiiit/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mudiiit/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
