@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mudiiit/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0667-beautiful-arrangement-ii](https://github.com/Mudiiit/leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Mudiiit/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Mudiiit/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1840-maximum-building-height](https://github.com/Mudiiit/leetcode/tree/master/1840-maximum-building-height) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Mudiiit/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mudiiit/leetcode/tree/master/0326-power-of-three) |
+| [0667-beautiful-arrangement-ii](https://github.com/Mudiiit/leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [1840-maximum-building-height](https://github.com/Mudiiit/leetcode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mudiiit/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mudiiit/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
