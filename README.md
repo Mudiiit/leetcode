@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mudiiit/leetcode/tree/master/0020-valid-parentheses) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Mudiiit/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Stack
 |  |
 | ------- |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Mudiiit/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mudiiit/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Simulation
+|  |
+| ------- |
+| [3614-process-string-with-special-operations-ii](https://github.com/Mudiiit/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 <!---LeetCode Topics End-->
