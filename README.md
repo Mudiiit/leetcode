@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mudiiit/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0667-beautiful-arrangement-ii](https://github.com/Mudiiit/leetcode/tree/master/0667-beautiful-arrangement-ii) |
+| [1260-shift-2d-grid](https://github.com/Mudiiit/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Mudiiit/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Mudiiit/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1840-maximum-building-height](https://github.com/Mudiiit/leetcode/tree/master/1840-maximum-building-height) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mudiiit/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/Mudiiit/leetcode/tree/master/1260-shift-2d-grid) |
 ## Combinatorics
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Mudiiit/leetcode/tree/master/1260-shift-2d-grid) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Mudiiit/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Linked List
 |  |
