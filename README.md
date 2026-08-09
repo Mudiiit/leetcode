@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Mudiiit/leetcode/tree/master/0486-predict-the-winner) |
 | [0667-beautiful-arrangement-ii](https://github.com/Mudiiit/leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0877-stone-game](https://github.com/Mudiiit/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Mudiiit/leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Mudiiit/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Mudiiit/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Mudiiit/leetcode/tree/master/1406-stone-game-iii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Mudiiit/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mudiiit/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Mudiiit/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mudiiit/leetcode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mudiiit/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mudiiit/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0667-beautiful-arrangement-ii](https://github.com/Mudiiit/leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Mudiiit/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0877-stone-game](https://github.com/Mudiiit/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Mudiiit/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mudiiit/leetcode/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/Mudiiit/leetcode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mudiiit/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Mudiiit/leetcode/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Mudiiit/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mudiiit/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Simulation
@@ -219,14 +223,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Mudiiit/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mudiiit/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Mudiiit/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mudiiit/leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Mudiiit/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mudiiit/leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Mudiiit/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mudiiit/leetcode/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
