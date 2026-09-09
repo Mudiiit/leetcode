@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Mudiiit/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0486-predict-the-winner](https://github.com/Mudiiit/leetcode/tree/master/0486-predict-the-winner) |
 | [0667-beautiful-arrangement-ii](https://github.com/Mudiiit/leetcode/tree/master/0667-beautiful-arrangement-ii) |
+| [0778-swim-in-rising-water](https://github.com/Mudiiit/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/Mudiiit/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mudiiit/leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Mudiiit/leetcode/tree/master/1260-shift-2d-grid) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mudiiit/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Mudiiit/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0778-swim-in-rising-water](https://github.com/Mudiiit/leetcode/tree/master/0778-swim-in-rising-water) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mudiiit/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mudiiit/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mudiiit/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -143,17 +145,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Mudiiit/leetcode/tree/master/0778-swim-in-rising-water) |
 | [2685-count-the-number-of-complete-components](https://github.com/Mudiiit/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Mudiiit/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Mudiiit/leetcode/tree/master/0778-swim-in-rising-water) |
 | [2685-count-the-number-of-complete-components](https://github.com/Mudiiit/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Mudiiit/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mudiiit/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Mudiiit/leetcode/tree/master/0778-swim-in-rising-water) |
 | [2685-count-the-number-of-complete-components](https://github.com/Mudiiit/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mudiiit/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Hash Table
@@ -234,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mudiiit/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0778-swim-in-rising-water](https://github.com/Mudiiit/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1260-shift-2d-grid](https://github.com/Mudiiit/leetcode/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mudiiit/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
@@ -279,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Mudiiit/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mudiiit/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -298,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Mudiiit/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1140-stone-game-ii](https://github.com/Mudiiit/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mudiiit/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Mudiiit/leetcode/tree/master/1510-stone-game-iv) |
@@ -331,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mudiiit/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Mudiiit/leetcode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
