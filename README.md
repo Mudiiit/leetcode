@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Mudiiit/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Mudiiit/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mudiiit/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/Mudiiit/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1563-stone-game-v](https://github.com/Mudiiit/leetcode/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/Mudiiit/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1840-maximum-building-height](https://github.com/Mudiiit/leetcode/tree/master/1840-maximum-building-height) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1514-path-with-maximum-probability](https://github.com/Mudiiit/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [2685-count-the-number-of-complete-components](https://github.com/Mudiiit/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Mudiiit/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Mudiiit/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Mudiiit/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mudiiit/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/Mudiiit/leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Counting Sort
 |  |
 | ------- |
@@ -343,4 +346,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Mudiiit/leetcode/tree/master/0778-swim-in-rising-water) |
+| [1514-path-with-maximum-probability](https://github.com/Mudiiit/leetcode/tree/master/1514-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/Mudiiit/leetcode/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
