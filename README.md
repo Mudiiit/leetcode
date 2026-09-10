@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mudiiit/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0327-count-of-range-sum](https://github.com/Mudiiit/leetcode/tree/master/0327-count-of-range-sum) |
 | [0486-predict-the-winner](https://github.com/Mudiiit/leetcode/tree/master/0486-predict-the-winner) |
 | [0667-beautiful-arrangement-ii](https://github.com/Mudiiit/leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0778-swim-in-rising-water](https://github.com/Mudiiit/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mudiiit/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0327-count-of-range-sum](https://github.com/Mudiiit/leetcode/tree/master/0327-count-of-range-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Mudiiit/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0778-swim-in-rising-water](https://github.com/Mudiiit/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Mudiiit/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mudiiit/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0327-count-of-range-sum](https://github.com/Mudiiit/leetcode/tree/master/0327-count-of-range-sum) |
 | [0912-sort-an-array](https://github.com/Mudiiit/leetcode/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/Mudiiit/leetcode/tree/master/0327-count-of-range-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mudiiit/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mudiiit/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Heap (Priority Queue)
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/Mudiiit/leetcode/tree/master/0327-count-of-range-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mudiiit/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Dijkstra's Algorithm
 |  |
@@ -384,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/Mudiiit/leetcode/tree/master/0327-count-of-range-sum) |
 | [0912-sort-an-array](https://github.com/Mudiiit/leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -393,4 +399,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Mudiiit/leetcode/tree/master/0912-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Mudiiit/leetcode/tree/master/0327-count-of-range-sum) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Mudiiit/leetcode/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
