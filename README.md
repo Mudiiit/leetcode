@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/Mudiiit/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1563-stone-game-v](https://github.com/Mudiiit/leetcode/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/Mudiiit/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Mudiiit/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1732-find-the-highest-altitude](https://github.com/Mudiiit/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1840-maximum-building-height](https://github.com/Mudiiit/leetcode/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/Mudiiit/leetcode/tree/master/1872-stone-game-viii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Mudiiit/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0778-swim-in-rising-water](https://github.com/Mudiiit/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Mudiiit/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Mudiiit/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mudiiit/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mudiiit/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mudiiit/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Mudiiit/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0327-count-of-range-sum](https://github.com/Mudiiit/leetcode/tree/master/0327-count-of-range-sum) |
 | [0912-sort-an-array](https://github.com/Mudiiit/leetcode/tree/master/0912-sort-an-array) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Mudiiit/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 ## Matrix
 |  |
 | ------- |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Mudiiit/leetcode/tree/master/0327-count-of-range-sum) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Mudiiit/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mudiiit/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mudiiit/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Heap (Priority Queue)
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Mudiiit/leetcode/tree/master/0327-count-of-range-sum) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Mudiiit/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mudiiit/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Dijkstra's Algorithm
 |  |
@@ -391,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Mudiiit/leetcode/tree/master/0327-count-of-range-sum) |
 | [0912-sort-an-array](https://github.com/Mudiiit/leetcode/tree/master/0912-sort-an-array) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Mudiiit/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -403,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Mudiiit/leetcode/tree/master/0327-count-of-range-sum) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Mudiiit/leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 ## Treap
 |  |
 | ------- |
