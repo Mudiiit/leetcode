@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Mudiiit/leetcode/tree/master/0486-predict-the-winner) |
 | [0667-beautiful-arrangement-ii](https://github.com/Mudiiit/leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0778-swim-in-rising-water](https://github.com/Mudiiit/leetcode/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/Mudiiit/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Mudiiit/leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Mudiiit/leetcode/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/Mudiiit/leetcode/tree/master/1140-stone-game-ii) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mudiiit/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0778-swim-in-rising-water](https://github.com/Mudiiit/leetcode/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/Mudiiit/leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Mudiiit/leetcode/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Mudiiit/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mudiiit/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
