@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0617-merge-two-binary-trees](https://github.com/Mudiiit/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0778-swim-in-rising-water](https://github.com/Mudiiit/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Mudiiit/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mudiiit/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0617-merge-two-binary-trees](https://github.com/Mudiiit/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0778-swim-in-rising-water](https://github.com/Mudiiit/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Mudiiit/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/Mudiiit/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -401,10 +403,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0617-merge-two-binary-trees](https://github.com/Mudiiit/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mudiiit/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0617-merge-two-binary-trees](https://github.com/Mudiiit/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mudiiit/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Merge Sort
 |  |
